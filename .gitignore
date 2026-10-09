@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.venv-teste/
+build/
+dist/
+*.egg-info/
+saida/
